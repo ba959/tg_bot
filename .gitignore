@@ -1,0 +1,13 @@
+# ===== Секреты — не заливаем =====
+config.py
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.log
+venv/
+.venv/
+
+# ===== Прочее =====
+.DS_Store
+Thumbs.db
